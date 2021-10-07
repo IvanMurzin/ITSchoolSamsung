@@ -1,17 +1,14 @@
-package code;
-
 /*
 N - количество мостов во время экскурсии
 H - высота автобуса
 hi - высота каждого моста
-
 5 12
 4 6 11 10 14
  */
 
 import java.util.Scanner;
 
-public class Main {
+public class BusTask {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
