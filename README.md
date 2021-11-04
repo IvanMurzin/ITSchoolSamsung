@@ -13,3 +13,4 @@
 1.5 - [Функции](https://docs.google.com/presentation/d/1wFLkaj20S6ofaswXi-eoJ8DWoo7Wpyfl7RJqIqr5FHU/edit?usp=sharing)
 ---
 2.1 - [Парадигма ООП](https://docs.google.com/presentation/d/1FPj_2GpvfSY8AdF3XJd5I2cn1aFLTv4kO45jE_ldRQs/edit?usp=sharing)
+---
