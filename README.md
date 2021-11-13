@@ -17,3 +17,4 @@
 2.2 - [Работа с экземплярами классов](https://docs.google.com/presentation/d/1p0ewcZuGPzcfaomfK4167tj7NRqv9DOw5LNVih7EuUE/edit?usp=sharing)
 ---
 2.3 - [Разработка Android-приложений](https://docs.google.com/presentation/d/1EYlOFAWfyhrLkpbtnScV_vBo1M-vKrcUozz7DMZ2Ew8/edit?usp=sharing)
+---
