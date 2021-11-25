@@ -13,12 +13,12 @@
 
     <EditText
         android:id="@+id/a_field"
-        android:inputType="number"
         android:layout_width="200dp"
         android:layout_height="60dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
         android:hint="a"
+        android:inputType="number"
         android:textSize="30sp" />
 
     <EditText
