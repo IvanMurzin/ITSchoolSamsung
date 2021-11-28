@@ -18,3 +18,7 @@
 ---
 2.3 - [Разработка Android-приложений](https://docs.google.com/presentation/d/1EYlOFAWfyhrLkpbtnScV_vBo1M-vKrcUozz7DMZ2Ew8/edit?usp=sharing)
 ---
+2.6 - [Context & Intent](https://docs.google.com/presentation/d/1TKE4izChkP_euy9i5UAa9ziQ34gWQXEOK7cjIReC_BA/edit?usp=sharing)
+---
+2.7 - [Наследование, инкапсуляция, полиморфизм](https://docs.google.com/presentation/d/1ZGAXb2GoH4Li5siJBjy8oR75UWMoRI2K43XEaM7Enkg/edit?usp=sharing)
+---
