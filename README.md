@@ -24,3 +24,5 @@
 ---
 3.1 - [File и обработка исключений](https://docs.google.com/presentation/d/1QwPecdAPDhPGa-jsjF2Y12OtJi6t8LfSl5QJ4wDwO2s/edit?usp=sharing)
 ---
+3.2 - [Внутренние и анонимные классы](https://docs.google.com/presentation/d/1zGVzNflkgyEeX0FSi4MAYZUhhMfMUlOT8JMUHCylYkE/edit?usp=sharing)
+---
