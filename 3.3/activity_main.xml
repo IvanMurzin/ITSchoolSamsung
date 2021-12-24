@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text_main"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:text="String: "
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/start1"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_margin="20dp"
+        android:text="Начать напрямую" />
+
+    <Button
+        android:id="@+id/start2"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_margin="20dp"
+        android:text="Начать в потоке" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_margin="20dp" />
+
+    <CheckBox
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="20dp" />
+</LinearLayout>

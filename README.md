@@ -26,3 +26,5 @@
 ---
 3.2 - [Внутренние и анонимные классы](https://docs.google.com/presentation/d/1zGVzNflkgyEeX0FSi4MAYZUhhMfMUlOT8JMUHCylYkE/edit?usp=sharing)
 ---
+3.3 -  [Параллелизм и синхронизация, потоки](https://docs.google.com/presentation/d/1-0cal4jI1qcD9-2BfiB6_qQj7axk9kn-W_aGmOmLApo/edit?usp=sharing)
+---
