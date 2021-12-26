@@ -28,3 +28,5 @@
 ---
 3.3 -  [Параллелизм и синхронизация, потоки](https://docs.google.com/presentation/d/1-0cal4jI1qcD9-2BfiB6_qQj7axk9kn-W_aGmOmLApo/edit?usp=sharing)
 ---
+3.4 - [Двумерная Графика](https://docs.google.com/presentation/d/1KESOden2F3vytsr5cVFspb-x7uozShbGdsxW9OZGBlI/edit?usp=sharing)
+---
