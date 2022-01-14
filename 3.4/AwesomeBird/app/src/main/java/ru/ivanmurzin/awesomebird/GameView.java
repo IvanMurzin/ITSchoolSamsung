@@ -4,10 +4,15 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
+import android.graphics.Color;
 import android.graphics.Rect;
+import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
@@ -69,6 +74,24 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback {
                     Thread.sleep(1000 / fps);
                     // что-нить рисовать
                     drawFrames(canvas);
+                    TextView view = new Button(getContext());
+                    view.setText("This is a custom drawn textview");
+                    view.setBackgroundColor(Color.RED);
+                    view.setGravity(Gravity.CENTER);
+                    int widthSpec = View.MeasureSpec.makeMeasureSpec(200, View.MeasureSpec.EXACTLY);
+//                    int heightSpec = View.MeasureSpec.makeMeasureSpec(200, View.MeasureSpec.EXACTLY);
+//                    view.measure(widthSpec, heightSpec);
+
+                    //Lay the view out at the rect width and height
+                    view.layout(0, 0, 200, 200);
+
+                    //Translate the Canvas into position and draw it
+                    canvas.save();
+                    canvas.translate(100, 100);
+                    view.draw(canvas);
+                    canvas.restore();
+
+
                     // что-нить обновить
                     update();
 
