@@ -30,3 +30,5 @@
 ---
 3.4 - [Двумерная Графика](https://docs.google.com/presentation/d/1KESOden2F3vytsr5cVFspb-x7uozShbGdsxW9OZGBlI/edit?usp=sharing)
 ---
+4.0 - [4.0 - Параметризованные типы](https://docs.google.com/presentation/d/1TrAT5Rab1z4YyWX0q99mOndqsZdmCY3RQSU-I1iD4ow/edit?usp=sharing)
+---
