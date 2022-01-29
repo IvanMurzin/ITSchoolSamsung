@@ -34,3 +34,5 @@
 ---
 4.1 - [Массивы. Класс ArrayList](https://docs.google.com/presentation/d/1CkYwZDN-1r9vjy6IyeLK4vaDGer-OgKQpAmhN98Hp1E/edit?usp=sharing)
 ---
+4.2 - [Связные списки](https://docs.google.com/presentation/d/1k9cqG4T-3MZ_rIreScQSSGvkXMG0-lMoywPjlnCw0ko/edit?usp=sharing)
+---
