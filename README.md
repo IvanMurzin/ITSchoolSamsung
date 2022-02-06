@@ -36,3 +36,5 @@
 ---
 4.2 - [Связные списки](https://docs.google.com/presentation/d/1k9cqG4T-3MZ_rIreScQSSGvkXMG0-lMoywPjlnCw0ko/edit?usp=sharing)
 ---
+4.2 - [Коллекции](https://docs.google.com/presentation/d/1rBfIL5TSMfh_UvZsVMRR4bIgouUUAFo8r8RuT8CncHM/edit?usp=sharing)
+---
