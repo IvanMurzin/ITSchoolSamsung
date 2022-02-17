@@ -38,3 +38,5 @@
 ---
 4.2 - [Коллекции](https://docs.google.com/presentation/d/1rBfIL5TSMfh_UvZsVMRR4bIgouUUAFo8r8RuT8CncHM/edit?usp=sharing)
 ---
+4.5 - [SQL](https://docs.google.com/presentation/d/1sGruJxqMagn46pVd2owwuMcMNc0H64gUGn7005v5Y4w/edit?usp=sharing)
+---
