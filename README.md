@@ -46,3 +46,5 @@
 ---
 4.5 - [Mini Project](https://docs.google.com/presentation/d/1BZalgIOXAPeSFo7ma9MRr0MHQeVFPrqpyFLcyMqPONE/edit?usp=sharing)
 ---
+4.6 - [Рекурсия](https://docs.google.com/presentation/d/1WYSQbv13-_PDcXPh2uh2rJtHSLGoWt2aSfXVpxKucL8/edit?usp=sharing)
+---
