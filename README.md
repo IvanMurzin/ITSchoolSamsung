@@ -48,3 +48,5 @@
 ---
 4.6 - [Рекурсия](https://docs.google.com/presentation/d/1WYSQbv13-_PDcXPh2uh2rJtHSLGoWt2aSfXVpxKucL8/edit?usp=sharing)
 ---
+4.7 - [Деревья](https://docs.google.com/presentation/d/1NQZFF-bRnpwoZ5qOPEWckcGKkBqIjRjX8AfAksIo3zo/edit?usp=sharing)
+---
