@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/greetings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textColor="#120436"
+        android:layout_marginTop="100dp"
+        android:textSize="40sp"
+        tools:text="Hello!" />
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/greetings"
+        android:hint="Username"
+        android:padding="20dp"
+        android:textColor="#120436"
+        android:textSize="40sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="50dp"
+        android:id="@+id/save_button"
+        android:layout_below="@id/edit_text"
+        android:layout_marginHorizontal="100dp"
+        android:text="save"
+        android:textSize="30sp" />
+</RelativeLayout>

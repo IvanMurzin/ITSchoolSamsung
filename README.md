@@ -50,3 +50,7 @@
 ---
 4.7 - [Деревья](https://docs.google.com/presentation/d/1NQZFF-bRnpwoZ5qOPEWckcGKkBqIjRjX8AfAksIo3zo/edit?usp=sharing)
 ---
+4.8 - [Множества. Хеширование](https://docs.google.com/presentation/d/1KarerjUTYq7yLf_DTAORnGExg2A3IbRCmXbV6TlZeM4/edit?usp=sharing)
+---
+4.9 - [Ассоциативные массивы](https://docs.google.com/presentation/d/1Iq3mD9bn-HPVd-13Aj3g60-xxEQYAkf-nwtNWJ4Jgdk/edit?usp=sharing)
+---
