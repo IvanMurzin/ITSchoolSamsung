@@ -56,5 +56,7 @@
 ---
 4.10 - [Алгоритмы сортировок](https://docs.google.com/presentation/d/1Jmf3yEia-VDudTOqs8FGtpmhlUJ8_GTBmxQYM7ExcF8/edit?usp=sharing)
 ---
+(Анимации)[https://docs.google.com/presentation/d/16PfbPcftsFZGAnMLUFhUIrnRHkO4OiknW8_z14vRdzg/edit?usp=sharing]
+---
 5.1 - [IP сети](https://docs.google.com/presentation/d/1qUeCUt3Xq1PCnIefN-ZXCXsKRtWDfqls4TLF2pu6Frs/edit?usp=sharing)
 ---
