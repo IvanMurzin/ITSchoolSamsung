@@ -62,3 +62,5 @@
 ---
 5.2 - [Web сервер. HTTP запросы и ответы](https://docs.google.com/presentation/d/1D0RzRktfAssA8iHIYydpgQTwARS2z3iFHt4AzCko9wA/edit?usp=sharing)
 ---
+5.3 - [Клиент-серверная архитектура мобильных приложений](https://docs.google.com/presentation/d/1FXDD2XN8o1p_c9nDQMDkL4mlTa6ikR3vFlagPPSyL4Q/edit?usp=sharing)
+---
