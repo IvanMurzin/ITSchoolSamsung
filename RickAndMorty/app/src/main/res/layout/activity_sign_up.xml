@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:padding="50dp"
+    tools:context=".view.SignUpActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/textColor"
+        android:textSize="35sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:hint="example@mail.com"
+        android:inputType="textEmailAddress"
+        android:maxLength="25"
+        android:textColorHint="@color/hint"
+        android:textColor="@color/textColor"
+        android:textSize="25sp"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:textColorHint="@color/hint"
+        android:layout_marginTop="30dp"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:maxLength="20"
+        android:textColor="@color/textColor"
+        android:textSize="25sp"
+        tools:text="123456" />
+
+    <EditText
+        android:id="@+id/confirm_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColorHint="@color/hint"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:hint="confirm password"
+        android:inputType="textPassword"
+        android:maxLength="20"
+        android:textColor="@color/textColor"
+        android:textSize="25sp"
+        tools:text="123456" />
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button_sign_shape"
+        android:text="Зарегистрироваться" />
+
+    <TextView
+        android:id="@+id/already_signed_up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="Уже есть аккаунт?"
+        android:textColor="@color/textColor"
+        android:textSize="20sp" />
+</LinearLayout>
